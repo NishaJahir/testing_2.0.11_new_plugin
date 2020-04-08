@@ -1,5 +1,15 @@
 # Informationen zum Novalnet Release
 
+## v2.0.11 (08.04.2020)
+
+### Behoben
+
+- Überprüfung der Felder Vorname und Nachname auf der Checkout-Seite angepasst
+- Fehler bei der Anzeige der Transaktionsdetails in PDF-Rechnung und Bestellhistorie für Rechnung, Rechnung mit Zahlungsgarantie und Vorkasse
+- Fehler bei der Anzeige des Transaktionsbetrags bei On-hold-Bestellungen per Rechnung mit Zahlungsgarantie
+- Fehler bei der Benachrichtigung zur Aktualisierung des Fälligkeitsdatums im Shop bei On-hold-Bestellungen per Rechnung, Rechnung mit Zahlungsgarantie und Vorkasse
+- Fehler bei der Anzeige des Brutto-Warenkorbwerts
+
 ## v2.0.10 (31.10.2019)
 
 ### Behoben
