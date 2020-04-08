@@ -1,5 +1,15 @@
 # Release Notes for Novalnet
 
+## v2.0.11 (2020-04-08)
+
+### Fix
+
+- Adjusted validation in the checkout page for First name and Last name field
+- Transaction detail are not displayed in Invoice PDF and shop front order history for Invoice, Invoice with payment guarantee and Prepayment
+- For Guarantee invoice payment while capturing the order, amount is not displayed in the transaction details
+- Due date update notification in the shop, on activation of transaction for Invoice, Invoice with payment guarantee and Prepayment
+- Basket amount is incorrectly displayed on including Tax
+
 ## v2.0.10 (2019-10-31)
 
 ### Fix
